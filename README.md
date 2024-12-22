@@ -93,3 +93,8 @@ Model, orijinal test seti üzerinde %75 doğruluk oranına ulaşırken, manipül
 1. Modelin farklı manipülasyonlar ile daha fazla test edilmesi.
 2. Daha büyük veri setleri ile modelin eğitilmesi.
 3. Transfer öğrenme ve daha karmaşık ağ mimarileri kullanarak modelin iyileştirilmesi.
+
+
+**Kaggle Linki**
+
+[Kaggle Proje Linki](https://www.kaggle.com/code/muhammetalivarlik/animalclassification)
